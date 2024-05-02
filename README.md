@@ -1,4 +1,4 @@
-# eda-charging-events
+# Exploratory Data Analysis - Charging Events
 
 This notebook presents a comprehensive Exploratory Data Analysis (EDA) of a dataset on Charging Events. The analysis is structured into two main categories:
 
